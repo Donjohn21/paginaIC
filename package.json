@@ -1,19 +1,10 @@
-
 {
-  "name": "paginaIC",
+  "name": "paginaic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
-  },
-
-  "devDependencies": {
-    "jest": "^27.0.0"
-  }
-}
-
-
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -26,10 +17,8 @@
   "bugs": {
     "url": "https://github.com/Donjohn21/paginaIC/issues"
   },
-  "homepage": "https://github.com/Donjohn21/paginaIC#readme",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
+  "homepage": "https://github.com/Donjohn21/paginaIC#readme"
+},
   "dependencies": {
     "ansi-escapes": "^4.3.2",
     "ansi-regex": "^5.0.1",
